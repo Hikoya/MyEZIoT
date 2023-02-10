@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.31",
+        "php-ai/php-ml": "^0.4.1",
+		"denissimon/prediction-builder": "*"
+    }
+}

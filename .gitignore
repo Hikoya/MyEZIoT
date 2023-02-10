@@ -1,0 +1,12 @@
+bootstrap/
+build/
+Folder/
+node_modules/
+plugins/
+scripts/
+pages/vendor/
+private/
+pages/netpie/
+pages/examples/
+pages/botframe/
+pages/azure/
